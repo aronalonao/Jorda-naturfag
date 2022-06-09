@@ -1,5 +1,8 @@
 
-div {margin-left: 40%;
+div {margin-left: 40%;          
+  font-family: Verdana;
+  font-size: 30px; 
+
             
         }
 
@@ -12,10 +15,6 @@ h1 {
   
 }
 
-p {
-  font-family: Verdana;
-  font-size: 30px; 
-}
             
  
  
